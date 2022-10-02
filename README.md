@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Iván Navarro (@Ivnosing)
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning Design Patterns and Testing
-- 💞️ I’m looking to collaborate on interesting projects
+- 💞️ I’m looking to collaborate on projects aimed at helping people.
 - 📫 You can reach me at: ivnosing@gmail.com
 
 <!---
